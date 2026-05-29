@@ -1,0 +1,152 @@
+===============================================
+  NARASI VIDEO HOAXSHIELD — MOTION GRAPHIC
+  Durasi: ~57 detik | Format: 16:9 | 1920x1080
+===============================================
+
+
+SCENE 1 — OPENING: MASALAH HOAKS
+Durasi: 0:00 – 0:07
+-----------------------------------------------
+
+[0:00 – 0:03]
+"Setiap hari, jutaan informasi menyebar di internet."
+
+[0:03 – 0:07]
+"Tapi tidak semuanya benar. Hoaks bisa menyebar lebih cepat dari fakta."
+
+
+SCENE 2 — MUNCULNYA HOAXSHIELD
+Durasi: 0:07 – 0:14
+-----------------------------------------------
+
+[0:07 – 0:10]
+"Bagaimana kalau ada cara untuk memeriksanya?"
+
+[0:10 – 0:14]
+"HoaxShield hadir untuk membantu kamu mengecek informasi sebelum percaya."
+
+
+SCENE 3 — INPUT INFORMASI
+Durasi: 0:14 – 0:23
+-----------------------------------------------
+
+[0:14 – 0:18]
+"Caranya mudah. Cukup tempel teks atau link berita yang mencurigakan."
+
+[0:18 – 0:23]
+"Lalu klik Analisis Sekarang. HoaxShield langsung bekerja untuk kamu."
+
+
+SCENE 4 — PROSES AI + PENCARIAN SUMBER
+Durasi: 0:23 – 0:33
+-----------------------------------------------
+
+[0:23 – 0:27]
+"HoaxShield menggunakan teknologi AI untuk menganalisis pola informasi."
+
+[0:27 – 0:33]
+"Sekaligus mencari referensi dari sumber-sumber terpercaya di internet,
+untuk menemukan bukti pendukung atau bantahan."
+
+
+SCENE 5 — HASIL ANALISIS
+Durasi: 0:33 – 0:45
+-----------------------------------------------
+
+[0:33 – 0:37]
+"Hasilnya ditampilkan dengan status yang jelas."
+
+[0:37 – 0:41]
+"Kemungkinan Hoaks, Kemungkinan Benar, atau Perlu Verifikasi."
+
+[0:41 – 0:45]
+"Lengkap dengan alasan singkat dan sumber rujukan,
+agar kamu bisa mengecek sendiri kebenarannya."
+
+
+SCENE 6 — PENUTUP
+Durasi: 0:45 – 0:57
+-----------------------------------------------
+
+[0:45 – 0:50]
+"Dengan HoaxShield, kita bisa lebih kritis, lebih aman,
+dan lebih bijak saat menerima informasi."
+
+[0:50 – 0:54]
+"HoaxShield. Cek informasi sebelum percaya."
+
+[0:54 – 0:57]
+"Bantu lawan hoaks dengan teknologi."
+
+
+===============================================
+  CATATAN UNTUK PENGISI SUARA
+===============================================
+
+1. TONE & GAYA
+   - Gunakan nada bicara yang tenang, percaya diri, dan modern.
+   - Cocok untuk remaja dan masyarakat umum Indonesia.
+   - Tidak terlalu formal, tapi tetap profesional.
+   - Tempo sedang — tidak terburu-buru, beri jeda antar kalimat.
+
+2. PENEKANAN KATA
+   - "Hoaks" — ucapkan dengan sedikit penekanan dan nada serius.
+   - "HoaxShield" — ucapkan dengan percaya diri, seperti nama brand.
+     Pengucapan: "Hoks-Shiild" (bukan "Ho-aks").
+   - "membantu", "menganalisis", "memberi rujukan" — tekankan kata-kata ini
+     untuk menghindari kesan klaim mutlak.
+
+3. KALIMAT PENTING
+   - Jangan pernah mengatakan "pasti benar" atau "dijamin akurat".
+   - Fokus pada kata: membantu, mengecek, menganalisis, referensi.
+
+4. TEMPO PER SCENE
+   - Scene 1: Mulai agak cepat, lalu melambat saat "Hoaks juga."
+   - Scene 2: Tenang dan optimis, seperti solusi datang.
+   - Scene 3: Santai dan instruksional, seperti tutorial singkat.
+   - Scene 4: Sedikit lebih teknis tapi tetap mudah dipahami.
+   - Scene 5: Jelas dan terstruktur, beri jeda antar status.
+   - Scene 6: Inspiratif dan kuat, beri penekanan di motto akhir.
+
+5. FORMAT AUDIO
+   - Sample rate: 44100 Hz atau 48000 Hz
+   - Format: WAV atau MP3 (320kbps)
+   - Pastikan tidak ada noise latar belakang.
+
+
+===============================================
+  TEKS YANG MUNCUL DI LAYAR (ON-SCREEN TEXT)
+===============================================
+
+Scene 1:
+  • "Informasi menyebar cepat."
+  • "Hoaks juga."
+
+Scene 2:
+  • "HoaxShield"
+  • "Cek informasi sebelum percaya."
+
+Scene 3:
+  • "Tempel teks atau tautan mencurigakan"
+  • "Periksa Informasi"
+  • "Analisis Sekarang"
+
+Scene 4:
+  • "AI + Pencarian Sumber"
+  • "Memeriksa referensi…"
+  • "Menganalisis pola informasi…"
+  • "Mencari sumber terpercaya…"
+
+Scene 5:
+  • "Kemungkinan Hoaks"
+  • "Kemungkinan Benar"
+  • "Perlu Verifikasi"
+  • "Alasan Analisis"
+  • "Sumber Rujukan Resmi"
+  • "Bagikan Hasil"
+
+Scene 6:
+  • "Lebih kritis. Lebih aman. Lebih bijak."
+  • "HoaxShield"
+  • "Cek informasi sebelum percaya."
+  • "Bantu lawan hoaks dengan teknologi."
