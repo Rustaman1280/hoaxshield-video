@@ -11,28 +11,28 @@ import { Scene5Results } from "./Scene5Results";
 import { Scene6Closing } from "./Scene6Closing";
 
 /*
- * HoaxShield Motion Graphic — Dynamic Version
+ * HoaxShield Motion Graphic — 2K 60fps
  *
- * Scene timing (at 30fps):
- * Scene 1 - Opening (7s)       = 210 frames
- * Scene 2 - Shield Reveal (7s) = 210 frames
- * Scene 3 - Input (9s)         = 270 frames
- * Scene 4 - AI Process (10s)   = 300 frames
- * Scene 5 - Results (12s)      = 360 frames
- * Scene 6 - Closing (15s)      = 450 frames
+ * Scene timing (at 60fps):
+ * Scene 1 - Opening (7s)       = 420 frames
+ * Scene 2 - Shield Reveal (7s) = 420 frames
+ * Scene 3 - Input (9s)         = 540 frames
+ * Scene 4 - AI Process (10s)   = 600 frames
+ * Scene 5 - Results (12s)      = 720 frames
+ * Scene 6 - Closing (15s)      = 900 frames
  *
- * Transitions: mix of fade, slide, wipe with spring timing
- * Total ≈ 57.5 seconds
+ * Transitions: 40+48+48+48+40 = 224 frames subtracted
+ * Total: 3600 - 224 = 3376 frames ≈ 56.3s
  */
 
-const FAST_TRANSITION = 20;  // ~0.67s
-const MED_TRANSITION = 24;   // ~0.8s
+const FAST_TRANSITION = 40;  // ~0.67s at 60fps
+const MED_TRANSITION = 48;   // ~0.8s at 60fps
 
 export const HoaxShieldVideo: React.FC = () => {
   return (
     <TransitionSeries>
       {/* Scene 1: Opening — chaos of hoaxes */}
-      <TransitionSeries.Sequence durationInFrames={210}>
+      <TransitionSeries.Sequence durationInFrames={420}>
         <Scene1Opening />
       </TransitionSeries.Sequence>
 
@@ -43,7 +43,7 @@ export const HoaxShieldVideo: React.FC = () => {
       />
 
       {/* Scene 2: Shield reveal */}
-      <TransitionSeries.Sequence durationInFrames={210}>
+      <TransitionSeries.Sequence durationInFrames={420}>
         <Scene2ShieldReveal />
       </TransitionSeries.Sequence>
 
@@ -54,7 +54,7 @@ export const HoaxShieldVideo: React.FC = () => {
       />
 
       {/* Scene 3: Input information */}
-      <TransitionSeries.Sequence durationInFrames={270}>
+      <TransitionSeries.Sequence durationInFrames={540}>
         <Scene3Input />
       </TransitionSeries.Sequence>
 
@@ -65,7 +65,7 @@ export const HoaxShieldVideo: React.FC = () => {
       />
 
       {/* Scene 4: AI Processing */}
-      <TransitionSeries.Sequence durationInFrames={300}>
+      <TransitionSeries.Sequence durationInFrames={600}>
         <Scene4AIProcess />
       </TransitionSeries.Sequence>
 
@@ -76,7 +76,7 @@ export const HoaxShieldVideo: React.FC = () => {
       />
 
       {/* Scene 5: Results */}
-      <TransitionSeries.Sequence durationInFrames={360}>
+      <TransitionSeries.Sequence durationInFrames={720}>
         <Scene5Results />
       </TransitionSeries.Sequence>
 
@@ -87,7 +87,7 @@ export const HoaxShieldVideo: React.FC = () => {
       />
 
       {/* Scene 6: Closing */}
-      <TransitionSeries.Sequence durationInFrames={450}>
+      <TransitionSeries.Sequence durationInFrames={900}>
         <Scene6Closing />
       </TransitionSeries.Sequence>
     </TransitionSeries>
